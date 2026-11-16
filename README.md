@@ -101,6 +101,6 @@ MAE and RMSE are in tonnes per hectare.
 
 ## Author
 
-**Ruthvik Raj B R**, School of Computer Science and Engineering, Lovely Professional University, Phagwara, Punjab.
+**Tanuj Grandhi**, School of Computer Science and Engineering, Lovely Professional University, Phagwara, Punjab.
 
 ## Data source
